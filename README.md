@@ -6,7 +6,7 @@ privilege escalation, controls REST and XML-RPC exposure, blocks author
 enumeration, protects the uploads directory, and runs a daily integrity scan —
 reporting everything in one email a day, or none at all.
 
-- **File:** `wp-content/plugins/aaa-blz-security.php`
+- **File:** `wp-content/plugins/aaa-site-security.php`
 - **Version:** 2.6.1
 - **Requires:** WordPress 5.6+, PHP 7.4+
 - **Optional:** WooCommerce, Contact Form 7 (both auto-detected)
