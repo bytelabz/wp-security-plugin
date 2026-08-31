@@ -32,7 +32,7 @@ reporting everything in one email a day, or none at all.
 
 ## 1. Installation
 
-1. Upload `aaa-blz-security.php` to `wp-content/plugins/`.
+1. Upload `aaa-site-security.php` to `wp-content/plugins/`.
 2. **Delete any earlier copy** of this code — an older version of the file, or
    the original hardening block in your theme's `functions.php`. Two copies
    active at once causes a fatal `cannot redeclare function` error.
